@@ -1,0 +1,38 @@
+#s{
+    width: 104px;
+    height: 88px;
+}
+.carousel-item{
+    background-color: #feeae9;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.categories{
+    margin-top: 100px;
+}
+.bagh{
+    background-color: orange;
+}
+.bilai{
+    background-color: #da70d6;
+}
+.idor{
+    background-color: #6028e4;
+}
+
+.row h1{
+    color: whitesmoke;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.bagh,.bilai,.idor{
+    padding: 10px;
+    border-radius: 10px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
